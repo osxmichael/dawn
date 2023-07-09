@@ -176,7 +176,7 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#334fb4",
+          "background": "{{ shop.brand.colors.secondary[0].background }}",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",

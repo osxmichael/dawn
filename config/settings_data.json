@@ -1,6 +1,8 @@
 {
   "current": {
+    "logo": "{{ shop.brand.logo }}",
     "logo_width": 90,
+    "favicon": "{{ shop.brand.logo }}",
     "type_header_font": "montserrat_n9",
     "heading_scale": 100,
     "type_body_font": "roboto_n4",

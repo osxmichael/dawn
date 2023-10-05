@@ -8,14 +8,8 @@
         "sections--14990852096083__6f4e39b6-d5da-4f05-bf5b-3da49eb04f1b-1688927527fa8daf9d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
-          }
-        },
-        "sections--14990852096083__6f4e39b6-d5da-4f05-bf5b-3da49eb04f1b-1688927527fa8daf9d-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<h6>Be the first to know about new collections and exclusive offers.<\/h6>"
+            "heading": "Hop on Board",
+            "heading_size": "h0"
           }
         },
         "sections--14990852096083__6f4e39b6-d5da-4f05-bf5b-3da49eb04f1b-1688927527fa8daf9d-2": {
@@ -26,7 +20,6 @@
       },
       "block_order": [
         "sections--14990852096083__6f4e39b6-d5da-4f05-bf5b-3da49eb04f1b-1688927527fa8daf9d-0",
-        "sections--14990852096083__6f4e39b6-d5da-4f05-bf5b-3da49eb04f1b-1688927527fa8daf9d-1",
         "sections--14990852096083__6f4e39b6-d5da-4f05-bf5b-3da49eb04f1b-1688927527fa8daf9d-2"
       ],
       "settings": {
